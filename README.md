@@ -1,7 +1,8 @@
 # vivaldi_youtube
 
-Youtube Video: https://www.youtube.com/watch?v=1D958u-ZLNs
-
+* Test Youtube Video: https://www.youtube.com/watch?v=1D958u-ZLNs
+* OS Platform: Linux ubuntu
+* Graphic card: nVidia GT610
 
 ### Chrome m58
 <img src="https://github.com/WillyYu/vivaldi_youtube/blob/master/images/chrome_trace_view_2.png?raw=true"/>
